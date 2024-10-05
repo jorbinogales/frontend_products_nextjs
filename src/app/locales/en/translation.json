@@ -1,0 +1,10 @@
+{
+  "login": {
+    "heading": "Welcome Back",
+    "email": "Your email address",
+    "password": "Your password",
+    "signIn": "Sign In",
+    "rememberMe": "Remember me",
+    "noAccount": "Don't have an account? Sign Up"
+  }
+}

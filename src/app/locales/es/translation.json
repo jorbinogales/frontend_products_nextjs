@@ -1,0 +1,10 @@
+{
+  "login": {
+    "heading": "Bienvenido de nuevo",
+    "email": "Tu dirección de correo electrónico",
+    "password": "Tu contraseña",
+    "signIn": "Iniciar sesión",
+    "rememberMe": "Recuérdame",
+    "noAccount": "¿No tienes una cuenta? Regístrate"
+  }
+}
